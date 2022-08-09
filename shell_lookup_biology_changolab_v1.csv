@@ -1,0 +1,66 @@
+GENUS_SPECIES,AUTHOR,CLASS,ORDER,FAMILY,ECOLOGY,DISTRIBUTION,MACRO_HABITAT,Litoral,MACRO_HABITAT,Recoleccion (directa_indirecta),Comentario,Referencia
+Acanthina monodon,Pallas 1774,Gastropoda,Neogastropoda,Muricidae,Carnivore,Temperate,Intermareal y submareal rocoso,Arenoso y Rocoso,Intermareal,Directa,NaN,Soto et al. 2004 RCHN
+Acanthopleura echinata,Barnes 1824,Polyplacophora,Chitonida,Chitonidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Intermareal,Directa,NaN,NaN
+Aesopus aliciae,Marincovich 1973,Gastropoda,Neogastropoda,Columbellidae,Carnivore,Temperate,Intermareal y submareal arenoso,Arenoso,Intermareal,Directa e Indirecta,Marincovich 1973 ,NaN
+Argopecten purpuratus,Lamarck 1819,Bivalvia,Pectinida,Pectinidae,Filter feeder,Temperate,Intermareal y submareal arenoso,Arenoso,Submareal,Directa,NaN,NaN
+Austromegabalanus psittacus,Molina 1788,Hexanauplia,Sessilia,Balanidae,Filter feeder,Temperate,Intermareal y submareal rocoso,Rocoso,Submareal,Directa,NaN,NaN
+Balanus laevis,Brugiere 1789,Hexanauplia,Sessilia,Balanidae,Filter feeder,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Indirecta,NaN,NaN
+Balanus sp.,NaN,Hexanauplia,Sessilia,Balanidae,Filter feeder,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Indirecta,NaN,NaN
+Bittium peruvianum,d_Orbigny 1841,Gastropoda,Caenogastropoda,Cerithiidae,Bottom feeder,Temperate,Intermareal y submareal arenoso,Arenoso y Rocoso,Submareal,Directa e Indirecta,NaN,NaN
+Brachidontes granulatus,Hanley 1843,Bivalvia,Mytilida,Mytilidae,Filter feeder,Temperate,Intermareal y submareal rocoso,Rocoso,Intermareal,Directa e Indirecta,NaN,NaN
+Calyptraeidae,NaN,Gastropoda,Littorinimorpha,Calyptraeidae,Filter feeder,Temperate,Intermareal y submareal rocoso,Arenoso y Rocoso,Inter/Submareal,Indirecta,Veliz et al. 2012 MOLLRES,NaN
+Chiton granosus,Frembly 1827,Polyplacophora,Chitonida,Chitonidae,Herbivore,Temperate,Intermareal rocoso,Rocoso,Intermareal,Directa,NaN,NaN
+Chiton latus,Sowerby 1841,Polyplacophora,Chitonida,Chitonidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Intermareal,Directa,Aldea y Valdovinos (2005) Araya y Araya 2015 ,NaN
+Chiton sp.,Linnaeus 1758,Polyplacophora,Chitonida,Chitonidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Intermareal,Directa,NaN,NaN
+Choromytilus chorus,Molina 1872,Bivalvia,Mytilida,Mytilidae,Filter feeder,Temperate,Submareal,Rocoso,Submareal,Directa,NaN,NaN
+Concholepas concholepas,Brugiere 1789,Gastropoda,Neogastropoda,Muricidae,Carnivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Crassilabrum crassilabrum,Swerby 1834,Gastropoda,Neogastropoda,Muricidae,Carnivore,Temperate,Intermareal y submareal rocoso,Rocoso,Submareal,Directa,NaN,NaN
+Crepidula dilatata,Lamarck 1822,Gastropoda,Littorinimorpha,Calyptraeidae,Filter feeder,Temperate,Intermareal y submareal rocoso,Arenoso y Rocoso,Inter/Submareal,Directa e Indirecta,Pechenick et al. 2015 BIOBULL Veliz et al. 2012 MOLLRES,NaN
+Cyclostremiscus sp.,Pilsbry_Olsson 1945,Gastropoda,Littorinimorpha,Tornidae,Bottom feeder,Warm_temperate,Intermareal y submareal arenoso,Arenoso,Inter/Submareal,Indirecta,NaN,NaN
+Decapoda,NaN,Malacostraca,Decapoda,NaN,NaN,NaN,NaN,Arenoso y Rocoso,Inter/Submareal,Directa,NaN,NaN
+Diloma nigerrimum,Gmelin 1791,Gastropoda,Trochida,Trochidae,Herbivore,Temperate,Intermareal rocoso,Rocoso,Inter/Submareal,Directa e Indirecta,Veliz y Vasquez 2000 RCHN,NaN
+Echinoidea,Leske 1778,Echinoidea,NaN,NaN,NaN,NaN,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Echinolittorina peruviana,Lamarck 1822,Gastropoda,Littorinimorpha,Littorinidae,Herbivore,Warm_temperate,Intermareal rocoso,Rocoso,Intermareal,Indirecta,NaN,NaN
+Enoplochiton niger,Barnes 1824,Polyplacophora,Chitonida,Chitonidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Intermareal,Directa,NaN,NaN
+Felicioliva peruviana,Lamarck 1811,Gastropoda,Neogastropoda,Olividae,Bottom feeder,Temperate,Intermareal y submareal arenoso,Rocoso,Submareal,Directa,NaN,NaN
+Fissurella bridgesii,Reeve 1849,Gastropoda,Lepetellida,Fissurellidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Fissurella costata,Lesson 1831,Gastropoda,Lepetellida,Fissurellidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Fissurella crassa,Lamarck 1822,Gastropoda,Lepetellida,Fissurellidae,Herbivore,Temperate,Intermareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Fissurella latimarginata,Sowerby 1835,Gastropoda,Lepetellida,Fissurellidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Fissurella limbata,Sowerby 1835,Gastropoda,Lepetellida,Fissurellidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Fissurella maxima,Sowerby 1834,Gastropoda,Lepetellida,Fissurellidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Fissurella picta,Gmelin 1791,Gastropoda,Lepetellida,Fissurellidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Fissurella pulchra,Sowerby 1834,Gastropoda,Lepetellida,Fissurellidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Fissurella sp.,Brugiere 1789,Gastropoda,Lepetellida,Fissurellidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Gastropoda,NaN,Gastropoda,NaN,NaN,NaN,NaN,NaN,Arenoso y Rocoso,Inter/Submareal,Directa e Indirecta,NaN,NaN
+Lottiidae,NaN,Gastropoda,NaN,Lottiide,Herbivore,Temperate,NaN,Arenoso y Rocoso,Intermareal,Directa e Indirecta,NaN,NaN
+Loxechinus albus,Molina 1782,Echinoidea,Camarodonta,Parechidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa,NaN,NaN
+Marinula pepita,King 1832,Gastropoda,Ellobiida,Ellobiidae,Bottom feeder,Warm_temperate,Intermareal y submareal arenoso,Rocoso,Submareal,Directa e Indirecta,Paredes et al. 2005 RPB,NaN
+Mesodesma donacium,Lamarck 1818,Bivalvia,NaN,Mesodesmatidae,Filter feeder,Temperate,Intermareal y submareal arenoso,Arenoso,Inter/Submareal,Directa,NaN,NaN
+Mitrella sp.,Risso 1826,Gastropoda,Neogastropoda,Columbellidae,Bottom feeder,Temperate,Intermareal y submareal arenoso,Rocoso,Inter/Submareal,Directa e Indirecta,NaN,NaN
+Mytilidae,NaN,Bivalvia,Mytilida,Mytilidae,Filter feeder,Temperate,Intermareal y submareal rocoso,Rocoso,Inter/Submareal,Directa e Indirecta,NaN,NaN
+Nassarius gayii,Kiener 1834,Gastropoda,Neogastropoda,Nassariide,Bottom feeder,Warm_temperate,Intermareal y submareal arenoso,Arenoso y Rocoso,Submareal,Directa e Indirecta,www.macrofauna.cl,NaN
+Olividae,NaN,Gastropoda,Neogastropoda,Olividae,Bottom feeder,Temperate,Intermareal y submareal arenoso,Arenoso y Rocoso,Submareal,Directa e Indirecta,NaN,NaN
+Patellidae,NaN,Gastropoda,NaN,Patellidae,Herbivore,NaN,Intermareal rocoso,Rocoso,Intermareal,Directa e Indirecta,NaN,NaN
+Perumytilus purpuratus,Lamarck 1819,Bivalvia,Mytilida,Mytilidae,Filter feeder,Temperate,Intermareal rocoso,Rocoso,Intermareal,Directa e Indirecta,NaN,NaN
+Polinices uber,d Orbigny 1842,Gastropoda,Littorinimorpha,Naticidae,Carnivore,Warm_temperate,Intermareal y submareal arenoso,Rocoso,Submareal,Directa e Indirecta,taylor et al. 2008 correa_trigoso et al. 2016 AA,NaN
+Priene scabrum,King 1832,Gastropoda,Littorinimorpha,Ranellidae,Carnivore,Warm_temperate,Intermareal y submareal rocoso,Arenoso y Rocoso,Submareal,Directa e Indirecta,www.macrofauna.cl,NaN
+Prisogaster niger,Wood 1828,Gastropoda,Trochida,Turbinidae,Herbivore,Temperate,Intermareal y submareal rocoso,Rocoso,Intermareal,Directa e Indirecta,NaN,NaN
+Protothaca thaca,Molina 1782,Bivalvia,Venerida,Veneridae,Filter feeder,Temperate,Intermareal y submareal arenoso,Arenoso,Inter/Submareal,Directa,NaN,NaN
+Rissoina inca,d Orbigny 1840,Gastropoda,Littorinimorpha,Rissoinidae,Carnivore,Warm_temperate,Intermareal y submareal rocoso,Arenoso y Rocoso,Intermareal,Directa e Indirecta,NaN,www.macrofauna.cl
+Scurria ceciliana,d_Orbigny 1841,Gastropoda,NaN,Lottiide,Herbivore,Temperate,Intermareal rocoso,Rocoso,Intermareal,Indirecta,NaN,NaN
+Scurria parasitica,d_Orbigny 1841,Gastropoda,NaN,Lottiide,Herbivore,Temperate,Intermareal rocoso,Rocoso,Inter/Submareal,Indirecta,NaN,NaN
+Scurria scurra,Lesson 1831,Gastropoda,NaN,Lottiide,Herbivore,Temperate,Intermareal rocoso,Rocoso,Intermareal,Indirecta,NaN,NaN
+Scurria variabilis,Sowerby 1839,Gastropoda,NaN,Lottiide,Herbivore,Temperate,Intermareal rocoso,Rocoso,Intermareal,Indirecta,NaN,NaN
+Scurria viridula,Lamarck 1822,Gastropoda,NaN,Lottiide,Herbivore,Temperate,Intermareal rocoso,Rocoso,Intermareal,Directa e Indirecta,NaN,NaN
+Tegula atra,Lesson 1830,Gastropoda,Trochida,Tegulidae,Herbivore,Temperate,Intermareal rocoso,Rocoso,Inter/Submareal,Directa e Indirecta,Veliz y Vasquez 2000 RCHN,NaN
+Tegula tridentata,Potiez_Michaud 1838,Gastropoda,Trochida,Tegulidae,Herbivore,Temperate,Intermareal rocoso,Rocoso,Inter/Submareal,Directa e Indirecta,Veliz y Vasquez 2000 RCHN,NaN
+Tegula sp.,NaN,Gastropoda,Trochida,Tegulidae,Herbivore,NaN,NaN,Rocoso,Inter/Submareal,Directa e Indirecta,Veliz y Vasquez 2000 RCHN,NaN
+Thais sp.,Roding 1798,Gastropoda,Neogastropoda,Muricidae,Carnivore,Temperate,Intermareal y submareal arenoso,Arenoso y Rocoso,Inter/Submareal,Directa,Cantillanez y Avendano 2013 LAJAR,NaN
+Tonicia sp.,Gray 1847,Polyplacophora,Chitonida,Chitonidae,Herbivore,Temperate,Intermareal rocoso,Rocoso,Intermareal,Directa,Araya y Araya 2015 ZOOSEVOL,NaN
+Trochidae,Rafinesque 1815,Gastropoda,Trochida,Trochidae,Carnivore,NaN,Intermareal y submareal arenoso,Rocoso,Inter/Submareal,Directa e Indirecta,NaN,NaN
+Trochita trochiformis,Born 1778,Gastropoda,Littorinimorpha,Calyptraeidae,Filter feeder,NaN,Submareal,Arenoso y Rocoso,Submareal,Directa e Indirecta,Canete y Ambler 1992 RCHN,NaN
+Turritella cingulata,Sowerby 1825,Gastropoda,Caenogastropoda,Turritellidae,Bottom feeder,Temperate,Submareal,Arenoso,Inter/Submareal,Directa e Indirecta,www.macrofauna.cl,NaN
+Venerida,NaN,Bivalvia,NaN,NaN,Filter feeder,NaN,Intermareal y submareal arenoso,Arenoso,Inter/Submareal,Directa,NaN,NaN
+Xanthochorus crassidiformis,Blainville 1832,Gastropoda,Neogastropoda,Muricidae,Carnivore,Temperate,Submareal,Arenoso y Rocoso,Submareal,Directa,www.macrofauna.cl,NaN
+Xanthochorus sp.,Fischer 1884,Gastropoda,Neogastropoda,Muricidae,Carnivore,Temperate,Submareal,Arenoso y Rocoso,Submareal,Directa,NaN,NaN
